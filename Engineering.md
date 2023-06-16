@@ -1,6 +1,6 @@
 # Engineering Roles
 
-## Graduate Engineer
+## Junior Engineer
 > I am a committed student of the values and beliefs of Loan Market.
 
 #### I write good quality code that can be shipped to production.

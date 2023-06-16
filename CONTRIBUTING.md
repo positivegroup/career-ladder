@@ -9,7 +9,7 @@ The characteristics listed should be representative of the role but do not need 
 The characteristics listed against the role should speak to the following concepts:
 
 - Craft
-  
+
   The technical skills and domain knowledge expected of the role.
 
 - Delivery
@@ -51,4 +51,4 @@ Other sentiments that may apply are:
 - I recognise
 - I am actively
 - I proactively
-- I invest in 
+- I invest in

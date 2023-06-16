@@ -1,4 +1,4 @@
-# Loan Market Group Technology Career Ladder
+# Loan Market Group Asset Finance Technology Career Ladder
 
 This repository describes the technical roles within the group.
 
@@ -10,13 +10,7 @@ It's the anchor point used through all of our feedback and promotion cycles. Thi
 
 [Engineering Roles](Engineering.md)
 
-[Cloud Engineering Roles](Cloud.md)
-
-[QA/QE Roles](QA-QE.md)
-
 ## Career Ladder
-
-![Ladder Diagram](ladder.jpg)
 
 ## Contributions
 
@@ -24,10 +18,11 @@ Staff can suggest changes by raising a pull request against this repository. For
 
 ## Thanks
 
-This repository and it's contents are **heavily** inspired by the [Readify career ladder](https://github.com/Readify/madskillz).
+This repository and it's contents are **heavily** inspired by the [Loan Market Group Career Leadder](https://github.com/loanmarket/career-ladder).
 
 Inspiration is also taken from:
 
+- https://github.com/Readify/madskillz
 - https://coderpad.io/blog/engineering-management/why-you-need-an-engineering-career-ladder/
 - https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit
 - https://etsy.github.io/Etsy-Engineering-Career-Ladder/
