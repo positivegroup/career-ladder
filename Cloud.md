@@ -1,7 +1,7 @@
 # Cloud Engineering Roles
 
 ## Graduate Cloud Engineer
-> I am a committed student of the values and beliefs of Loan Market.
+> I am a committed student of the values and beliefs of LMG.
 #### I am familiar with and develop good quality solutions for cloud computing.
 
 - I am learning how to segment tasks into deliverable units of work.
@@ -146,9 +146,9 @@
 - I can apply my technical abilities to productively solve business problems with confidence and pragmatism.
 - I use my skills, speed and knowledge to help my team be very productive.
 
-#### I am investing back into Loan Market.
+#### I am investing back into LMG.
 
-- I am becoming a trusted voice in Loan Market and my opinions and ideas seem to carry some weight.
+- I am becoming a trusted voice in LMG and my opinions and ideas seem to carry some weight.
 - I am mentoring another team member, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
 - I am involved in initiatives beyond cloud engineering.
@@ -184,9 +184,9 @@
 - I am comfortable with building a product vision with a Product or Engineering Manager based on the business needs, regardless of whether this involves technology or otherwise.
 - I know we need to be able to measure performance and progress in my team. I am constantly looking for ways to understand what we have achieved.
 
-#### I am investing back into Loan Market.
+#### I am investing back into LMG.
 
-- I am becoming a trusted voice in Loan Market and my opinions and ideas seem to carry some weight.
+- I am becoming a trusted voice in LMG and my opinions and ideas seem to carry some weight.
 - I am mentoring another team member, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
 
@@ -197,7 +197,7 @@
 
 #### I am a deeply respected leader of people.
 
-- My influence and guidance positively affects teams and individuals both inside and outside of Loan Market.
+- My influence and guidance positively affects teams and individuals both inside and outside of LMG.
 - I use my soft skills to bring out the best in both our people and our customers and encourage them to grow.
 - I'm not afraid to have difficult conversations when needed, and do so with tact and care.
 - I set clear expectations for people and they know how they are progressing against those expectations. I create bounded environments for action and let people have freedom within those boundaries.
@@ -231,9 +231,9 @@
 - I don't rely on the Product and Engineering Managers to define the roadmap and set objectives. I am constantly asking questions and looking for ways to improve our intentions.
 - I listen to my team but advocate for more. I look to change negative attitudes into positive plans of action.
 
-#### I am investing back into Loan Market.
+#### I am investing back into LMG.
 
-- I am a trusted voice in Loan Market and my opinions and ideas carry some weight.
+- I am a trusted voice in LMG and my opinions and ideas carry some weight.
 - I am helping steer the public and private conversations within the business towards positive and productive outcomes.
 - I represent the interest of my team and the technology group as a whole to the wider business.
 - I am involved in initiatives beyond cloud engineering.

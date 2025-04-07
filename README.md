@@ -1,4 +1,4 @@
-# Loan Market Group Technology Career Ladder
+# LMG Technology Career Ladder
 
 This repository describes the technical roles within the group.
 
@@ -16,7 +16,7 @@ It's the anchor point used through all of our feedback and promotion cycles. Thi
 
 ## Career Ladder
 
-![Ladder Diagram](ladder.jpg)
+![Ladder Diagram](ladder.png)
 
 ## Contributions
 

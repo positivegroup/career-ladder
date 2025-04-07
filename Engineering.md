@@ -1,7 +1,8 @@
 # Engineering Roles
 
 ## Graduate Engineer
-> I am a committed student of the values and beliefs of Loan Market.
+
+> I am a committed student of the values and beliefs of LMG.
 
 #### I write good quality code that can be shipped to production.
 
@@ -30,6 +31,7 @@
 ---
 
 ## Engineer
+
 > I am a valuable, enthusiastic and net-positive member of the team.
 
 #### I write high quality code quickly and ship it to production.
@@ -67,6 +69,7 @@
 ---
 
 ## Senior Engineer
+
 > I am a highly sought-after member of the team with a proven record of shipping high-quality code to production.
 
 #### I am trusted to develop a solution from an initial idea through to production.
@@ -110,6 +113,7 @@
 ---
 
 ## Principal Engineer
+
 > I am a well-rounded developer, architect, problem solver and leader of people. I aspire to have engineering and behavioural excellence.
 >
 > 🔀 This role starts the Domain Expert track. The sub-branches of Principal Engineer are:
@@ -147,9 +151,9 @@
 - I can apply my technical abilities to productively solve business problems with confidence and pragmatism.
 - I use my skills, speed and knowledge to help my team be very productive.
 
-#### I am investing back into Loan Market.
+#### I am investing back into LMG.
 
-- I am becoming a trusted voice in Loan Market and my opinions and ideas seem to carry some weight.
+- I am becoming a trusted voice in LMG and my opinions and ideas seem to carry some weight.
 - I am mentoring another team member, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
 - I am involved in initiatives beyond developing software.
@@ -157,6 +161,7 @@
 ---
 
 ## Lead Engineer
+
 > I am a well-rounded developer, architect, problem solver and leader of people. I am trusted to lead teams to deliver a small number of pitches from inception to their successful completion.
 >
 > 🔀 This role is the start of the Management track.
@@ -184,17 +189,20 @@
 - I am comfortable with building a product vision with a Product Manager and Engineering Manager based on the business needs, regardless of whether this involves technology or otherwise.
 - I know we need to be able to measure performance and progress in the team and in the adoption of our software. I am constantly looking for ways to understand what we have achieved.
 
-#### I am investing back into Loan Market.
+#### I am investing back into LMG.
 
-- I am becoming a trusted voice in Loan Market and my opinions and ideas seem to carry some weight.
+- I am becoming a trusted voice in LMG and my opinions and ideas seem to carry some weight.
 - I am mentoring another team member, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
+
 ---
 
 ## Engineering Operations Lead
+
 > I am a well-rounded developer, architect and problem solver. I am trusted to set processes and practices that help engineers support our platforms established value while balancing engineering ideals with external pressures.
 
 #### I am trusted to lead a team and help the team manage competing priorities
+
 - I set clear expectations for people and they know how they are progressing against those expectations. I create bounded environments for action and let people have freedom within those boundaries.
 - I am responsible for my team and the relationship with our stakeholders.
 - I can confidently step outside my comfort zone and adapt quickly to new team situations.
@@ -206,17 +214,20 @@
 - I recognise problems with my team and proactively engage with relevant leaders as needed to prevent or resolve them quickly.
 
 #### I guide engineering teams towards maintaining the established value of our platforms.
-- I am the owner of the processes designed to support established features and a key driver for constant improvement and collaboration across teams. 
+
+- I am the owner of the processes designed to support established features and a key driver for constant improvement and collaboration across teams.
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - I am very comfortable performing business analysis work. I often play the role of Product understanding the long term vision and making engineering choices that align with that vision.
 
 #### I am adaptable
+
 - I realise that there are many tools that can solve a given problem and each have their own pros and cons.
 - I can adapt to a given situation and can learn and implement new technologies with very short notice.
 - I seek out relevant SME’s to expand understanding and expedite outcomes.
 - I know that my knowledge will soon be obsolete so I'm actively investing in other areas or technologies into which I can grow.
 
 #### I know the pressures of being a key leader.
+
 - I know how to identify business problems/goals and evaluate the ROI and TCO of potential solutions.
 - I understand how budgeting, competition, strategic alignment and compliance pressures can influence technology decisions and am able to adjust proposed solutions based on those factors.
 - I understand the bigger picture of how software development, compliance, marketing and other business departments all interrelate and influence the success of a business.
@@ -229,12 +240,58 @@
 
 ---
 
-## Principal Architect
-> I epitomise and embody engineering and behavioural excellence that Loan Market aspires to. I have a wealth of experience and readily share it with all teams, both technical and non-technical.
+## Distinguished Engineer
+
+> I am a master craftsperson, sought out to solve the most complex technical challenges with exceptional skill and speed. My primary focus is on deep technical contribution and execution excellence.
+
+#### I tackle the most demanding technical problems head-on.
+
+- I possess an exceptional ability to rapidly understand, dissect, and solve highly complex or ambiguous technical issues that others find intractable.
+- I consistently deliver robust, elegant, and efficient solutions to the toughest engineering problems.
+- My deep technical expertise allows me to identify and mitigate risks in critical projects effectively.
+- I am adept at navigating uncharted technical territory and pioneering new approaches when necessary.
+- I am trusted to take ownership of critical technical components or systems and ensure their ongoing success.
+
+#### I elevate the technical bar through my work and expertise.
+
+- My work exemplifies the highest standards of engineering quality, performance, and maintainability.
+- I use my skills, speed, and knowledge to demonstrate advanced techniques and approaches, directly and indirectly lifting the capabilities of those around me.
+- I contribute to setting technical direction through my expertise and the solutions I build.
+- I identify opportunities for significant improvements or innovations within our systems and processes.
+
+#### I am a thought leader in technology and architecture.
+
+- I can communicate with other leads and architects at a high level but also delve as deep as the problem requires.
+- I have a wide understanding of software development technology and practices, backed by extensive practical experience.
+- I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, performance, concurrency and maintainability into consideration.
+- I can position the pros and cons of different solutions in terms of business costs and benefits rather than technical purity.
+- I use my skills, speed and knowledge to help my team be very productive.
+
+#### I am investing back into LMG.
+
+- I am a trusted voice in LMG and my opinions and ideas carry some weight.
+- People value my opinions and ideas. They come to me for advice knowing I will empathise with them and understand their situation before providing options to them.
+- I have a demonstrated preference to help people discover solutions to problems for themselves first, before giving them guidance.
+- I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
+- I am involved in initiatives beyond developing software.
+
+#### I am always learning, always teaching, always collaborating.
+
+- I am constantly looking for opportunities and ways to impart my knowledge to others.
+- I may be a highly regarded engineer but I don't know everything, even when my ego wants to pretend I do. I am comfortable showing that I still need to learn and will visibly collaborate, seek help, get advice, and undertake mentoring as needed.
+- I am an information sponge, always staying abreast of advances in the software development ecosystem.
+- I know that my knowledge will soon be obsolete so I'm actively investing in other areas or technologies into which I can grow.
+- I am proficient at delivering software products using good practices.
+
+---
+
+## Architect & Principal Architect
+
+> I epitomise and embody engineering and behavioural excellence that LMG aspires to. I have a wealth of experience and readily share it with all teams, both technical and non-technical.
 
 #### I am a respected and trusted leader.
 
-- My influence and guidance positively affects teams and individuals both inside and outside of Loan Market.
+- My influence and guidance positively affects teams and individuals both inside and outside of LMG.
 - I use my soft skills to bring out the best in both our people and our customers and encourage them to grow.
 - I'm not afraid to have difficult conversations when needed, and do so with tact and care.
 - I know when and how to apply different coaching and mentoring techniques, understanding the maturity level of those I'm helping.
@@ -254,10 +311,10 @@
 - I understand that technical solutions are not always the best solution to a problem and that we are a solution provider not a technology provider.
 - I ensure the right people are at the table when discussing potential solutions to ensure collective consideration, adoption, and ownership of solutions.
 
-#### My investment back into Loan Market is a significant part of our success.
+#### My investment back into LMG is a significant part of our success.
 
-- I am a trusted voice in Loan Market and my opinions and ideas carry some weight.
-- I identify and build support for technical initiatives that address Loan Markets most important needs.
+- I am a trusted voice in LMG and my opinions and ideas carry some weight.
+- I identify and build support for technical initiatives that address LMGs most important needs.
 - I take time to reflect on our identity, our people and our culture, and the way in which we work. I think of ways in which we can improve ourselves, engage others to validate those ideas and then invest time in implementing them.
 - I recognise that the value I bring to the company is different to the broader engineering team and that the interactions I have with people is critical to our collective success.
 
@@ -272,17 +329,18 @@
 ---
 
 ## Engineering Manager
+
 > I am trusted to autonomously lead people through any engagement with a proven record of delivering pitches from inception to their successful completion.
 >
 > 🔀 The sub-branches of Engineering Manager are:
-> 
+>
 > - Architect: Engineering and software architecture excellence.
 > - Business Analysis: Business solution design and strategy.
 > - Leadership: Problem solving and operational excellence.
 
 #### I am a deeply respected leader of people.
 
-- My influence and guidance positively affects teams and individuals both inside and outside of Loan Market.
+- My influence and guidance positively affects teams and individuals both inside and outside of LMG.
 - I use my soft skills to bring out the best in both our people and our customers and encourage them to grow.
 - I'm not afraid to have difficult conversations when needed, and do so with tact and care.
 - I set clear expectations for people and they know how they are progressing against those expectations. I create bounded environments for action and let people have freedom within those boundaries.
@@ -295,7 +353,7 @@
 - I understand how budgeting, competition, strategic alignment and compliance pressures can influence technology decisions and am able to adjust proposed solutions based on those factors.
 - I understand the bigger picture of how software development, compliance, marketing and other business departments all interrelate and influence the success of a business.
 - I know how to adjust my communications style based on my audience, from support to engineer to sales and marketing to C-level executives and business owners.
-- I know the impact of internal politics in organisations and how it can alter decision making processes. I work to minimise any such activities and proactively display a culture of ownership and inclusion. 
+- I know the impact of internal politics in organisations and how it can alter decision making processes. I work to minimise any such activities and proactively display a culture of ownership and inclusion.
 - I know what is required to bring about organisational change, and when enough trust has been established to broach such topics with others.
 
 #### I am a servant leader for my team.
@@ -314,9 +372,9 @@
 - I don't rely on the Product Manager to define the roadmap and set objectives. I am constantly asking questions and looking for ways to improve our intentions.
 - I listen to the team but advocate for more. I look to change negative attitudes into positive plans of action.
 
-#### I am investing back into Loan Market.
+#### I am investing back into LMG.
 
-- I am a trusted voice in Loan Market and my opinions and ideas carry some weight.
+- I am a trusted voice in LMG and my opinions and ideas carry some weight.
 - I am helping steer the public and private conversations within the business towards positive and productive outcomes.
 - I represent the interest of my team and the technology group as a whole to the wider business.
 - I am involved in initiatives beyond developing software.
