@@ -1,7 +1,7 @@
 # QA/QE Roles
 
 ## Graduate QA/QE Engineer
-> I am a committed student of the values and beliefs of Loan Market.
+> I am a committed student of the values and beliefs of LMG.
 
 #### I perform high quality testing before any change is shipped to production.
 
@@ -159,9 +159,9 @@
 - I support my peers, through workshops, documentation, and pair programming.
 - People value my ideas and knowledge. They come to me seeking solutions.
 
-#### I am investing back into Loan Market.
+#### I am investing back into LMG.
 
-- I am becoming a trusted voice in Loan Market and my opinions and ideas seem to carry some weight.
+- I am becoming a trusted voice in LMG and my opinions and ideas seem to carry some weight.
 - I am mentoring another team member, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
 - I am involved in initiatives beyond testing and automation.
@@ -196,9 +196,9 @@
 - I have good understanding of test automation and can drive automation strategy to provide guidance on how specific tests should be automated and common automation risks/failures.
 - I plan ahead to establish the right quality processes + strategy for the current project, but also aligned with the overall strategy and future direction of the team.
 
-#### I am investing back into Loan Market.
+#### I am investing back into LMG.
 
-- I am becoming a trusted voice in Loan Market and my opinions and ideas seem to carry some weight.
+- I am becoming a trusted voice in LMG and my opinions and ideas seem to carry some weight.
 - I am mentoring another team member, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
 
@@ -209,7 +209,7 @@
 
 #### I am a deeply respected leader of people.
 
-- My influence and guidance positively affects teams and individuals both inside and outside of Loan Market.
+- My influence and guidance positively affects teams and individuals both inside and outside of LMG.
 - I use my soft skills to bring out the best in both our people and our customers and encourage them to grow.
 - I'm not afraid to have difficult conversations when needed, and do so with tact and care.
 - I set clear expectations for people and they know how they are progressing against those expectations. I create bounded environments for action and let people have freedom within those boundaries.
@@ -241,9 +241,9 @@
 - I plan ahead to establish the right quality processes + strategy for the current project, but also aligned with the overall strategy and future direction of the team.
 - I listen to the team but advocate for more. I look to change negative attitudes into positive plans of action.
 
-#### I am investing back into Loan Market.
+#### I am investing back into LMG.
 
-- I am a trusted voice in Loan Market and my opinions and ideas carry some weight.
+- I am a trusted voice in LMG and my opinions and ideas carry some weight.
 - I am helping steer the public and private conversations within the business towards positive and productive outcomes.
 - I represent the interest of my team and the technology group as a whole to the wider business.
 - I am involved in initiatives beyond testing and automation.

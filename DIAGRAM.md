@@ -3,7 +3,11 @@ flowchart BT
   subgraph band_td [ ]
     direction LR
     
-    td[Head of Engineering]
+    cto[CTO]
+
+    hoe[Head of Engineering]
+
+    cse[Head of Cloud & Security Engineering]
 
     subgraph legend [Where]
       direction LR
@@ -16,15 +20,23 @@ flowchart BT
   subgraph band_mgmt [ ]
     direction LR
 
-    pa[Principal Architect]
     em[Engineering Manager]
-    cem[Head of cloud and security engineering]
     qam[QA/QE Manager]
     eol[Engineering Operations Lead]
   end
 
   subgraph band_teams [ ]
     direction LR
+
+    subgraph report_cto [ ]
+      direction BT
+      
+      pa[Principal Architect]
+      a[Architect]
+      de[Distinguised Engineer]
+
+      a -.-> pa
+    end
 
     subgraph report_em [ ]
       direction BT
@@ -46,7 +58,7 @@ flowchart BT
       end
     end
 
-    subgraph report_cem [ ]
+    subgraph report_cse [ ]
       direction BT
 
       pce[Principal Cloud Engineer]
@@ -77,23 +89,20 @@ flowchart BT
     end
   end
 
-  pae -.-> report_cem
-  le -.-> em
-  le -.-> eol
-  lce -.-> cem
-  lqe -.-> qam
-
   report_em --> em
-  report_cem --> cem
+  report_cse --> cse
   report_qam --> qam
-  pe -..-> pa
-  pe -.-> eol
-  pce -..-> pa
+  report_cto --> cto
 
-  pa --> td
-  em --> td
-  cem --> td
-  qam --> td
+  qam --> cto
+
+  em --> hoe
+  eol --> hoe
+
+  pae -.-> report_em
+  le -.-> eol
+  le -.-> em
+  pe -.-> report_cto
 
   classDef band fill:transparent,stroke:none;
   class band_td,band_mgmt,band_teams band;
