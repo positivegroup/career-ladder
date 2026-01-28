@@ -72,12 +72,11 @@
 
 > I am a highly sought-after member of the team with a proven record of shipping high-quality code to production.
 
-#### I am trusted to develop a solution from an initial idea through to production.
+#### I am trusted to take a well-scoped feature from requirements through to production.
 
 - I consistently write code with testability, readability, edge cases and errors in mind.
 - I promote behaviours that allow the team to release, monitor and debug a feature in production.
 - I can interpret and clarify technical and business requirements.
-- I am comfortable creating a baseline feature or repository from scratch for others to build on.
 - I am proficient with my tools and the core building blocks used by our team.
 - I know how to make pragmatic decisions in order to ship a feature.
 - I am comfortable standing up a build and delivery pipeline.
@@ -90,7 +89,7 @@
 - I use code reviews as an opportunity to teach and show others alternate, cleaner ways to implement functionality in an ego-less manner. That way the whole team together learns how to deliver a higher quality, more maintainable product.
 - I can manage difficult conversations and tactfully challenge others, leaving them with a positive impression of myself and the team.
 - I can effectively coach people and pass on my knowledge.
-- I am a confident and proficient teacher of my craft.
+- I am growing as a teacher of my craft.
 
 #### I am focussed on the success of the team, without the need to boost my ego.
 
@@ -109,6 +108,53 @@
 - I am devoted to learning; it's become a natural part of my life.
 - I am actively introspective and take time to work on my personal and professional development.
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
+
+---
+
+## Staff Engineer
+
+> I am a technical leader who drives engineering excellence beyond my immediate team. I solve complex problems, influence technical direction, and multiply the effectiveness of those around me.
+
+#### I am trusted to lead complex technical initiatives with minimal oversight.
+
+- I identify and lead technical initiatives that span multiple teams or systems.
+- I am trusted to make architectural decisions for medium-to-large features.
+- I can navigate ambiguity and drive clarity in complex technical situations.
+- I proactively identify technical debt and systemic issues, building consensus to address them.
+- I am comfortable creating a baseline architecture, feature, or repository from scratch for others to build on.
+
+#### I am adaptable.
+
+- I realise that there are many tools that can solve a given problem and each have their own pros and cons.
+- I can adapt to a given situation and can learn and implement new technologies with short notice.
+- I know that my knowledge will eventually become obsolete so I'm actively investing in other areas or technologies into which I can grow.
+
+#### I am emerging as a thought leader in my technical domain.
+
+- I have a solid understanding of software development technology and practices, backed by practical experience.
+- I am confident making architectural decisions taking concerns like scalability, performance, security, and maintainability into consideration.
+- I can apply my technical abilities to productively solve business problems with confidence and pragmatism.
+- I use my skills and knowledge to help engineers around me be more productive.
+
+#### I am comfortable with business context and requirements.
+
+- I am comfortable performing light business analysis work when needed.
+- I can help clarify technical implications of business requirements.
+- I balance technical idealism with business pragmatism when making recommendations.
+
+#### I multiply the effectiveness of engineers around me.
+
+- I raise the technical bar across my team and adjacent teams through code reviews, design reviews, and pairing.
+- I create reusable patterns, tools, and documentation that help others move faster.
+- I am sought out for technical guidance on difficult problems—engineers trust my judgment.
+- I help engineers grow by giving them stretch opportunities while providing appropriate support.
+- I contribute to hiring by conducting technical interviews and helping calibrate engineering standards.
+
+#### I am investing in the broader engineering community.
+
+- I share knowledge through documentation, tech talks, or other forums.
+- I participate in initiatives that improve engineering culture and practices.
+- I am becoming a trusted voice whose opinions carry weight within engineering.
 
 ---
 
