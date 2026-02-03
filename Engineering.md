@@ -1,6 +1,6 @@
 # Engineering Roles
 
-## Graduate Engineer
+## Junior Engineer
 
 > I am a committed student of the values and beliefs of LMG.
 
@@ -44,6 +44,7 @@
 - I am learning how to write valuable automated tests.
 - I am becoming proficient with my tools and the core building blocks used by our team.
 - I am learning how to stand up a build and delivery pipeline.
+- I am learning to break down my assigned tasks into smaller, logical steps.
 
 #### I am recognised by my desire to learn and my motivation to improve.
 
@@ -66,18 +67,24 @@
 - My contributions to team discussions are net-positive, informative and helpful.
 - I am always prepared to be a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging).
 
+#### I am developing my communication and collaboration skills.
+
+- I am learning to write clear documentation and explanations for my code and decisions.
+- I help onboard new team members by explaining how things work and where to find information.
+- I am learning to explain technical concepts to both technical and non-technical team members.
+- I proactively share context about my work with the team, keeping others informed without being asked.
+
 ---
 
 ## Senior Engineer
 
 > I am a highly sought-after member of the team with a proven record of shipping high-quality code to production.
 
-#### I am trusted to develop a solution from an initial idea through to production.
+#### I am trusted to take a well-scoped feature from requirements through to production.
 
 - I consistently write code with testability, readability, edge cases and errors in mind.
 - I promote behaviours that allow the team to release, monitor and debug a feature in production.
 - I can interpret and clarify technical and business requirements.
-- I am comfortable creating a baseline feature or repository from scratch for others to build on.
 - I am proficient with my tools and the core building blocks used by our team.
 - I know how to make pragmatic decisions in order to ship a feature.
 - I am comfortable standing up a build and delivery pipeline.
@@ -90,12 +97,13 @@
 - I use code reviews as an opportunity to teach and show others alternate, cleaner ways to implement functionality in an ego-less manner. That way the whole team together learns how to deliver a higher quality, more maintainable product.
 - I can manage difficult conversations and tactfully challenge others, leaving them with a positive impression of myself and the team.
 - I can effectively coach people and pass on my knowledge.
-- I am a confident and proficient teacher of my craft.
+- I am growing as a teacher of my craft.
 
 #### I am focussed on the success of the team, without the need to boost my ego.
 
 - I add value to my team by being a trusted, proactive supporter of my team and its leadership, and by delivering high quality work with a minimum of fuss.
-- I seek to understand the real needs of our customer's and am comfortable building requirements and technical recommendations off those.
+- I seek to understand the real needs of our customers and am comfortable building requirements and technical recommendations off those.
+- I am learning to understand how my team's work contributes to business outcomes and priorities.
 - I recognise problems early and get in and fix them regardless of whose fault it is.
 - I am good at recognising problems outside the scope of my work and eagerly get involved in improving our product, our environment and our processes.
 - I happily tackle all problems regardless of difficulty, and I support my team by solving them in a pragmatic way.
@@ -109,6 +117,76 @@
 - I am devoted to learning; it's become a natural part of my life.
 - I am actively introspective and take time to work on my personal and professional development.
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
+
+#### I am expanding my impact beyond my immediate team.
+
+- I build relationships with engineers on other teams and understand how our work interconnects.
+- I participate in cross-team discussions, design reviews, or working groups when relevant to my expertise.
+- I am learning to participate in technical interviews and provide useful feedback on candidates.
+- I am aware of how my team's work fits into broader engineering and business objectives.
+
+---
+
+## Staff Engineer
+
+> I am a technical leader who drives engineering excellence beyond my immediate team. I solve complex problems, influence technical direction, and multiply the effectiveness of those around me.
+>
+> 🔀 Staff Engineer is a key branching point in the career ladder. From here, you can progress to:
+>
+> - **Principal Engineer** → Domain Expert track (deep technical or business analysis expertise)
+> - **Lead Engineer** → Management track (people leadership and team delivery)
+> - **Distinguished Engineer** → Deep technical contribution track (solving the most complex technical challenges)
+
+#### I am trusted to lead complex technical initiatives with minimal oversight.
+
+- I identify and lead technical initiatives that span multiple teams or systems.
+- I am trusted to make architectural decisions for medium-to-large features.
+- I can navigate ambiguity and drive clarity in complex technical situations.
+- I proactively identify technical debt and systemic issues, building consensus to address them.
+- I am comfortable creating a baseline architecture, feature, or repository from scratch for others to build on.
+
+#### I am adaptable to technical change.
+
+- I realise that there are many tools that can solve a given problem and each have their own pros and cons.
+- I can learn and implement new technologies with short notice when project needs require it.
+- I know that my knowledge will eventually become obsolete so I'm actively investing in other areas or technologies into which I can grow.
+- I help teams adopt new technologies or practices by creating examples, documentation, and providing guidance.
+
+#### I am emerging as a thought leader in my technical domain.
+
+- I have a solid understanding of software development technology and practices, backed by practical experience.
+- I am confident making architectural decisions taking concerns like scalability, performance, security, and maintainability into consideration.
+- I can apply my technical abilities to productively solve business problems with confidence and pragmatism.
+- I use my skills and knowledge to help engineers around me be more productive.
+
+#### I am comfortable with business context and requirements.
+
+- I am comfortable performing light business analysis work when needed.
+- I can help clarify technical implications of business requirements.
+- I balance technical idealism with business pragmatism when making recommendations.
+- I understand the business context of our products and can explain how technical decisions impact business outcomes.
+- I am learning to evaluate technical options in terms of their business value, not just technical merit.
+
+#### I multiply the effectiveness of engineers around me.
+
+- I raise the technical bar across my team and adjacent teams through code reviews, design reviews, and pairing.
+- I create reusable patterns, tools, and documentation that help others move faster.
+- I am sought out for technical guidance on difficult problems—engineers trust my judgment.
+- I help engineers grow by giving them stretch opportunities while providing appropriate support.
+- I contribute to hiring by conducting technical interviews and helping calibrate engineering standards.
+
+#### I am investing in the broader engineering community.
+
+- I share knowledge through documentation, tech talks, or other forums.
+- I participate in initiatives that improve engineering culture and practices.
+- I am becoming a trusted voice whose opinions carry weight within engineering.
+
+#### I am developing leadership skills beyond technical leadership.
+
+- I am learning to influence without authority, building consensus across teams and stakeholders.
+- I facilitate productive discussions and help groups reach decisions.
+- I am learning to navigate team dynamics and help resolve interpersonal challenges when they arise.
+- I take ownership of team outcomes, not just my individual contributions.
 
 ---
 
@@ -138,11 +216,13 @@
 - I am comfortable performing business analysis work. I help Product and Engineering Managers to clarify their vision and help turn it into a roadmap and then pitches, collaborating with them to reach a shared understanding of what should and can be built.
 - I recognise problems with my team and proactively engage with relevant leaders as needed to prevent or resolve them quickly.
 
-#### I am adaptable
+#### I am adaptable to technical and organisational change.
 
-- I realise that there are many tools that can solve a given problem and each have their own pros and cons.
-- I can adapt to a given situation and can learn and implement new technologies with very short notice.
+- I can adapt to shifting priorities, team structures, and business contexts while maintaining effectiveness.
+- I can learn and implement new technologies rapidly, and help others do the same.
+- I am comfortable leading through uncertainty and change, helping teams stay focused and productive.
 - I know that my knowledge will soon be obsolete so I'm actively investing in other areas or technologies into which I can grow.
+- I can switch between strategic thinking and hands-on execution as the situation demands.
 
 #### I am emerging as a thought leader in technology and architecture.
 
@@ -188,6 +268,14 @@
 - I am looking for new opportunities and thinking beyond what we are creating today.
 - I am comfortable with building a product vision with a Product Manager and Engineering Manager based on the business needs, regardless of whether this involves technology or otherwise.
 - I know we need to be able to measure performance and progress in the team and in the adoption of our software. I am constantly looking for ways to understand what we have achieved.
+- I am learning to evaluate technical decisions in terms of ROI and total cost of ownership.
+- I am developing awareness of how budgeting and business constraints influence technical decisions.
+
+#### I am learning to drive positive change.
+
+- I identify opportunities to improve team processes and advocate for changes that benefit the team.
+- I am learning how to build support for changes by involving stakeholders early and addressing concerns.
+- I understand that sustainable change requires buy-in and I work to bring others along.
 
 #### I am investing back into LMG.
 
@@ -200,6 +288,8 @@
 ## Engineering Operations Lead
 
 > I am a well-rounded developer, architect and problem solver. I am trusted to set processes and practices that help engineers support our platforms established value while balancing engineering ideals with external pressures.
+>
+> 🔀 Engineering Operations Lead is a specialised role that combines technical leadership with operational excellence. This role typically branches from Staff Engineer or Lead Engineer and focuses on platform stability, operational processes, and balancing new development with maintenance of established systems.
 
 #### I am trusted to lead a team and help the team manage competing priorities
 
@@ -219,11 +309,12 @@
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - I am very comfortable performing business analysis work. I often play the role of Product understanding the long term vision and making engineering choices that align with that vision.
 
-#### I am adaptable
+#### I am adaptable to operational demands.
 
-- I realise that there are many tools that can solve a given problem and each have their own pros and cons.
-- I can adapt to a given situation and can learn and implement new technologies with very short notice.
-- I seek out relevant SME’s to expand understanding and expedite outcomes.
+- I can rapidly shift priorities between planned work, incidents, and urgent stakeholder requests while keeping the team productive.
+- I seek out relevant SMEs to expand understanding and expedite outcomes.
+- I can adapt to new technologies and tools when they better serve operational needs.
+- I balance the need for stability with the need for change, knowing when each is appropriate.
 - I know that my knowledge will soon be obsolete so I'm actively investing in other areas or technologies into which I can grow.
 
 #### I know the pressures of being a key leader.
@@ -243,6 +334,8 @@
 ## Distinguished Engineer
 
 > I am a master craftsperson, sought out to solve the most complex technical challenges with exceptional skill and speed. My primary focus is on deep technical contribution and execution excellence.
+>
+> 🔀 Distinguished Engineer is a senior individual contributor role on the deep technical track. This path emphasises exceptional hands-on technical contribution rather than people leadership. It typically follows Staff Engineer for those who want to remain deeply technical.
 
 #### I tackle the most demanding technical problems head-on.
 
